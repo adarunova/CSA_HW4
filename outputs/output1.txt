@@ -1,0 +1,5 @@
+Filled container:
+0: It is CIRCLE. Center coordinates: (2, 3), radius: 4. Perimeter = 25.1327. Color: ORANGE
+1: It is RECTANGLE. Coordinates of angles: (7, 18), (16, 4). Perimeter = 46. Color: GREEN
+2: It is RECTANGLE. Coordinates of angles: (7, 13), (10, 11). Perimeter = 10. Color: YELLOW
+3: It is TRIANGLE. Coordinates of vertices: (1, 2), (1, 4), (1, 8). Perimeter =  12. Color: GREEN

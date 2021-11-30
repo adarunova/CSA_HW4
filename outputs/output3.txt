@@ -1,0 +1,2 @@
+Filled container:
+0: It is CIRCLE. Center coordinates: (1, 1), radius: 1. Perimeter = 6.28319. Color: ORANGE
