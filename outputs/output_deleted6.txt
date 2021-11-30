@@ -1,0 +1,5 @@
+Container after deleting shapes:
+0: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+1: It is TRIANGLE. Coordinates of vertices: (1, 2), (5, 8), (100, -100). Perimeter =  293.192. Color: YELLOW
+2: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+Average perimeter = 49.6211. Calculaton time = 0 sec, 4570900 nsec

@@ -1,0 +1,5 @@
+Container after deleting shapes:
+0: It is RECTANGLE. Coordinates of angles: (9, -12), (20, -14). Perimeter = 26. Color: GREEN
+1: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+2: It is CIRCLE. Center coordinates: (-15, 8), radius: 4. Perimeter = 25.1327. Color: YELLOW
+Average perimeter = 23.1769. Calculaton time = 0 sec, 10484600 nsec

@@ -1,0 +1,3 @@
+Container after deleting shapes:
+0: It is CIRCLE. Center coordinates: (1, 1), radius: 1. Perimeter = 6.28319. Color: ORANGE
+Average perimeter = 6.28319. Calculaton time = 0 sec, 4757100 nsec

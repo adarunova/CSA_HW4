@@ -1,0 +1,22 @@
+Container after deleting shapes:
+0: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+1: It is TRIANGLE. Coordinates of vertices: (1, 2), (5, 8), (4, -100). Perimeter =  217.26. Color: YELLOW
+2: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+3: It is CIRCLE. Center coordinates: (5, 1), radius: 8. Perimeter = 50.2655. Color: GREEN
+4: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+5: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+6: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+7: It is CIRCLE. Center coordinates: (5, 1), radius: 8. Perimeter = 50.2655. Color: GREEN
+8: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+9: It is TRIANGLE. Coordinates of vertices: (1, 2), (5, 8), (30, -20). Perimeter =  81.1483. Color: YELLOW
+10: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+11: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+12: It is TRIANGLE. Coordinates of vertices: (1, 2), (5, 8), (40, -18). Perimeter =  94.6408. Color: YELLOW
+13: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+14: It is CIRCLE. Center coordinates: (5, 1), radius: 8. Perimeter = 50.2655. Color: GREEN
+15: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+16: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+17: It is CIRCLE. Center coordinates: (6, 19), radius: 20. Perimeter = 125.664. Color: GREEN
+18: It is CIRCLE. Center coordinates: (5, 1), radius: 8. Perimeter = 50.2655. Color: GREEN
+19: It is CIRCLE. Center coordinates: (-4, -5), radius: 16. Perimeter = 100.531. Color: ORANGE
+Average perimeter = 33.4623. Calculaton time = 0 sec, 9103800 nsec
